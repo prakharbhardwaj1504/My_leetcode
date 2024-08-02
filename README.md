@@ -20,3 +20,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+<!---LeetCode Topics End-->
