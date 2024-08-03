@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+## Array
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
