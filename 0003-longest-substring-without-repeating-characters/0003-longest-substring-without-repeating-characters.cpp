@@ -7,7 +7,7 @@ public:
         int count=0;
         int maxcount=0;
         while(r<s.length()){
-            if(!map[s[r]]){
+            if(map[s[r]]==false){
             count=r-l+1;
             map[s[r]]=true;
             maxcount=max(maxcount,count);
