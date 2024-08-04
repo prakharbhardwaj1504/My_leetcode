@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0485-max-consecutive-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
