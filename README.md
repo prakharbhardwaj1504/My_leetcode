@@ -30,14 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
 | ------- |
