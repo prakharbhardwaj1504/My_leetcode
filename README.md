@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [2619-categorize-box-according-to-criteria](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 <!---LeetCode Topics End-->
