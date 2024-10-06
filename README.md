@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
