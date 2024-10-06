@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
 | [2619-categorize-box-according-to-criteria](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Two Pointers
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
