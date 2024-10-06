@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
 | [2619-categorize-box-according-to-criteria](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Two Pointers
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
