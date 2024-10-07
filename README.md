@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0898-transpose-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Two Pointers
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
