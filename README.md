@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Two Pointers
 |  |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/0898-transpose-matrix) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/prakharbhardwaj1504/My_leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
